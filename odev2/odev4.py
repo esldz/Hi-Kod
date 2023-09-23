@@ -13,5 +13,4 @@ while sayac<3:
         break
     else:
         print(f"Şifre yanlış {3-sayac} deneme hakkınız kaldı")
-        continue
 
